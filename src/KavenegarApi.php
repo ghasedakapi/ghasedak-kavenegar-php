@@ -10,7 +10,7 @@ use Kavenegar\Enums\General;
 
 class KavenegarApi
 {
-    const APIPATH = "%s://api.kavenegar.com/v1/%s/%s/%s.json/";
+    const APIPATH = "%s://api.ghasedak.io/kavenegar/v1/%s/%s/%s.json/";
     const VERSION = "1.2.2";
     public function __construct($apiKey,$insecure=false)
     {
