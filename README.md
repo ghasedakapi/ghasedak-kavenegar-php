@@ -96,4 +96,4 @@ sample output
 
 ## Contribution
 
-Bug fixes, docs, and enhancements welcome! Please let us know <a href="mailto:support@ghasedak.io?Subject=SDK" target="_top">support@ghasedak.io</a>
+Bug fixes, docs, and enhancements welcome! Please let us know <a href="mailto:support@ghasedak.me?Subject=SDK" target="_top">support@ghasedak.me</a>
